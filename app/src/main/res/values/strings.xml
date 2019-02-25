@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VarioInterpreter</string>
+    <string name="z_sin_2">Z*Sin(θ/2)</string>
+    <string name="y_sin_2">Y*Sin(θ/2)</string>
+    <string name="cos_2">Cos(θ/2)</string>
+    <string name="x_sin_2">X*Sin(θ/2)</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="th2">TH2</string>
+</resources>
